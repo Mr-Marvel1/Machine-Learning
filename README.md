@@ -1,2 +1,3 @@
 # Machine-Learning
-my first project of machine learning 
+My first project of machine learning.
+Author-Harshit Jaiswal
